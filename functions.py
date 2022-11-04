@@ -1,6 +1,6 @@
 # Databricks notebook source
 def sum_numbers(x, y):
-    return x + y
+    return x - y
 
 # COMMAND ----------
 
